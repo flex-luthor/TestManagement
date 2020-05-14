@@ -1,0 +1,18 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .myForm {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+  
+  .border.rounded.img-preview {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
